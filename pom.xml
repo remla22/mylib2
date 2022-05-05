@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>remla22</groupId>
-	<artifactId>mylib</artifactId>
+	<artifactId>mylib2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
@@ -15,8 +15,8 @@
 	<distributionManagement>
 		<repository>
 			<id>github</id>
-			<name>remla22/mylib</name>
-			<url>https://maven.pkg.github.com/remla22/mylib</url>
+			<name>remla22/mylib2</name>
+			<url>https://maven.pkg.github.com/remla22/mylib2</url>
 		</repository>
 	</distributionManagement>
 </project>
